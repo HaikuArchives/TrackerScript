@@ -1,0 +1,23 @@
+===================== 
+TrackerScript 1.2
+=====================
+User Interface rewitten by Andrea Anzani <andrea.anzani@gmail.com>
+
+This hybrid Application/Tracker addon executes a script (stored 
+in attribute "script") with the selected files as arguments.
+It  optionally displays any output in a Terminal (set attribute 
+"terminal" true).  When invoked as an Application with no arguments, 
+it lets you edit these attributes.  (When invoked as an App with 
+arguments or dropped files, it acts just like it does when invoked 
+by the Tracker on those items.)
+ 
+=====================
+
+         File: TrackerScript-x86.zip
+       Author: Peter Folk (pfolk@uni.uiuc.edu)
+      Release: 1.0.1 (05/14/1999)
+Compatibility: PPC R3+, x86 R4+
+     Location: contrib/add-ons/tracker
+  Description: Run scripts on selected files
+
+=====================
