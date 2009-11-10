@@ -1,6 +1,6 @@
-===================== 
-TrackerScript 1.2
-=====================
+=======================
+TrackerScript 1.2 Haiku
+=======================
 User Interface rewitten by Andrea Anzani <andrea.anzani@gmail.com>
 
 This hybrid Application/Tracker addon executes a script (stored 
@@ -10,6 +10,10 @@ It  optionally displays any output in a Terminal (set attribute
 it lets you edit these attributes.  (When invoked as an App with 
 arguments or dropped files, it acts just like it does when invoked 
 by the Tracker on those items.)
+
+Source Code available at:
+http://dev.osdrawer.net/projects/trackerscript
+
  
 =====================
 
