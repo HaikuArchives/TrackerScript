@@ -2,6 +2,7 @@
 TrackerScript 1.2 Haiku
 =======================
 User Interface rewitten by Andrea Anzani <andrea.anzani@gmail.com>
+Icon by zuMi
 
 This hybrid Application/Tracker addon executes a script (stored 
 in attribute "script") with the selected files as arguments.
