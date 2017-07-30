@@ -68,7 +68,7 @@ void process_refs(entry_ref dir_ref, BMessage *msg, void *)
 
 		// load the command
 		argv[argc]=NULL;
-		thread_id tid=load_image(argc, argv.begin(), (const char**)environ);
+		thread_id tid=load_image(argc, &argv.front(), (const char**)environ);
 		
 		// restore stdin, pwd
 		dup2(oldin,0);
